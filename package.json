@@ -1,0 +1,14 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "Programa de pruebas con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Juan Camilo Rivas Molina",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
